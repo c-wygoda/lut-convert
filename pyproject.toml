@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lut-convert"
-version = "0.0.0"
+version = "0.1.0"
 description = "LUT converter"
 authors = ["Christian Wygoda <christian.wygoda@wygoda.net>"]
 license = "MIT"
